@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-umnify is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://umnify.com/
+umnify provides smart hospitality software solutions for hotels and apartment houses, offering a suite of applications that streamline operations, enhance guest experiences, and improve revenue management. Their platform includes tools for reservations, housekeeping, channel management, and analytics, targeting the German market and expanding internationally.
+
+**Areas:** Hospitality · Software · Hotel Management · German Market · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://umnify.com/)
+- [Sign up](https://umnify.com/register/)
+- [Blog](https://umnify.com/blog/author/daniel/)
+- [Privacy policy](https://umnify.com/privacy-policy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/umnify/](https://apis.io/providers/umnify/).
